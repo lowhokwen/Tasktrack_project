@@ -4,32 +4,32 @@ TaskMaster is a cross-platform productivity application built using Ionic, Angul
 
 1. Features Implemented
 
-✔ Task Management
+Task Management
 - Add tasks
 - Toggle complete
 - Delete tasks
 - Task detail view
 - Tasks stored per user in Firebase
 
-✔ User Authentication
+User Authentication
 - Register
 - Login
 - Logout
 - Firebase secured rules
 
-✔ Calendar Page
+Calendar Page
 - Monthly calendar
 - Highlights days with tasks
 - View tasks for selected date
 - Local notifications
 - Share API
 
-✔ Pomodoro Timer
+Pomodoro Timer
 - 25 min countdown
 - Start / Pause / Reset
 - Lofi music toggle
 
-✔ Analytics (Pro Feature)
+Analytics (Pro Feature)
 - Completion rate pie chart
 - Monthly tasks bar chart
 - Locked for free users
