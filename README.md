@@ -2,7 +2,12 @@ TaskMaster – Productivity Mobile App
 
 TaskMaster is a cross-platform productivity application built using Ionic, Angular, Firebase, and Capacitor. It provides task management, calendar scheduling, a Pomodoro timer, analytics, native device integrations, and a simulated monetization system.
 
-1. Features Implemented
+
+1. How to Run
+npm install
+npm start
+
+2. Features Implemented
 
 Task Management
 - Add tasks
@@ -35,17 +40,13 @@ Analytics (Pro Feature)
 - Locked for free users
 - Unlock via simulated Pro purchase
 
-2. Native Device Features
+3. Native Device Features
 - Local Notifications
 - Share API
 
-3. Monetization
+4. Monetization
 - Simulated “Pro” version using Ionic Storage
 - Upgrade / Restore / Reset
-
-4. How to Run
-npm install
-npm start
 
 5. Technology Stack
 - Ionic 7
