@@ -4,8 +4,10 @@ TaskMaster is a cross-platform productivity application built using Ionic, Angul
 
 
 1. How to Run
-npm install
-npm start
+
+-npm install
+-npm start
+-ionic serve
 
 2. Features Implemented
 
